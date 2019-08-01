@@ -1,0 +1,14 @@
+{
+  "name": "moneymaker",
+  "version": "1.0.0",
+  "description": "a production line simulator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "jsanchesleao@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
